@@ -1,7 +1,5 @@
 # Backend
 
-## Entidades
-
 ### Games
 
 id
@@ -13,7 +11,7 @@ bannerUrl
 id
 gameId
 name
-yearsPlayng
+yearsPlaying
 discord
 weekDays
 hourStart
